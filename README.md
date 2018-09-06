@@ -1,2 +1,4 @@
-#ITF-Lab 2018
-## Veerapong Tanjantuk 61070213
+# ITF-Lab 2018
+
+## Author
+Veerapong Tanjantuk 61070213
